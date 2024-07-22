@@ -5,4 +5,4 @@ Ranjan is a Microsoft Certified Trainer (MCT), and a technical author, who has t
 
 Ranjan has worked with top global clients, such as Microsoft, Intel, Volkswagen, Cisco, Boeing, Deloitte, Sony, Siemens, Aon, KPMG, E&Y, ABB, Fidelity, UnitedHealth Group, Accenture, NTT Data, ANZ bank, Qatar Gas, Qatar Petrochemical, Ethiopian Airlines, Etihad Airways, Dubai Customs, Vodafone, Amadeus, IBM, Volvo, Mercedes-Benz, LVMH, HPE, Infosys, Mindtree, Genpact, and FCMB (Nigeria).
 
-Hands-on technical skills: Microsoft Azure, Microsoft AI, Microsoft OpenAI, Microsoft Power Platform, Power Apps, Power Automate, Cloud flow, Desktop flow, Power Pages, Dataverse, Microsoft Copilot Studio, Microsoft Copilot, Nintex Forms, Nintex Workflow, Microsoft 365, Microsoft Teams.
+<b>Hands-on technical skills:</b> Microsoft Azure, Microsoft AI, Microsoft OpenAI, Microsoft Power Platform, Power Apps, Power Automate, Cloud flow, Desktop flow, Power Pages, Dataverse, Microsoft Copilot Studio, Microsoft Copilot, Nintex Forms, Nintex Workflow, Microsoft 365, Microsoft Teams.
