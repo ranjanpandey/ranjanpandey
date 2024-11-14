@@ -2,19 +2,25 @@
 
 ### Hi there, I'm Ranjan <span class="wave">👋</span>
 
-With over 16 years of experience in the IT industry, Ranjan is a passionate and skilled cloud trainer and solution architect, specializing in Microsoft AI and Microsoft Power Platform. As founder of Flexmind, Ranjan's mission is to provide deep-dive hands-on courses on AI & Cloud technologies to enterprises/individuals across the globe and help them achieve digital transformation and productivity.
+Ranjan is a Microsoft Certified Trainer (MCT), Author, and Consultant with 16 years of hands-on experience working on Microsoft Technologies. 
 
-Ranjan is a Microsoft Certified Trainer (MCT), and a technical author, who has trained over 4000 professionals, delivered over 400 training classes, and developed multiple assessments for the Microsoft World Wide Learning Team on various certifications. 
+As founder of Flexmind, Ranjan's mission is to provide hands-on, deep-dive courses on AI and cloud technologies to enterprises and individuals worldwide and help them achieve digital transformation and productivity.
 
-Ranjan has worked with top global clients, such as Microsoft, Intel, Volkswagen, Cisco, Boeing, Deloitte, Sony, Siemens, Aon, KPMG, E&Y, ABB, Fidelity, UnitedHealth Group, Accenture, NTT Data, ANZ bank, Qatar Gas, Qatar Petrochemical, Ethiopian Airlines, Etihad Airways, Dubai Customs, Vodafone, Amadeus, IBM, Volvo, Mercedes-Benz, LVMH, HPE, Infosys, Mindtree, Genpact, and FCMB (Nigeria).
+Ranjan has trained over 5000 professionals, delivered over 500 training classes Worldwide, and developed several assessments for the Microsoft World Wide Learning Team on various certifications. 
 
-| **No.** | **Trainings I deliver** |
+Ranjan has worked with top global clients, such as Microsoft, Intel, Volkswagen, Cisco, Boeing, Philips, Commonwealth Bank, Deloitte, Sony, Siemens, Aon, KPMG, E&Y, ABB, Fidelity, UnitedHealth Group, Accenture, NTT Data, ANZ bank, Qatar Gas, Qatar Petrochemical, Ethiopian Airlines, Etihad Airways, Dubai Customs, Vodafone, Amadeus, IBM, Volvo, Mercedes-Benz, LVMH, HPE, Infosys, Mindtree, Genpact, and FCMB (Nigeria).
+
+| **No.** | **Primary Skills** |
 | ------ | ------------------------------ |
-|      1 | Microsoft AI| 
-|      2 | Microsoft Copilot Studio|
-|      3 | Microsoft Power Platform|
-|      4 | Power Automate (Cloud flow & Desktop flow)| 
-|      5 | Power Apps (Canvas App & Model-driven App)|
-|      6 | Nintex Forms & Nintex Workflow|
+|      1 | Power Platform| 
+|      2 | Power Apps (Canvas App & Model-driven App)|
+|      3 | Power Automate (Cloud flow and Desktop flow)|
+|      4 | Azure OpenAI Service| 
+|      5 | Microsoft Copilot Studio|
+|      6 | Process Mining|
+|      7 | Microsoft Azure| 
+|      8 | Microsoft 365|
+|      9 | Nintex Workflow and Forms|
+|     10 | SharePoint Online|
 
 For any training queries, please send me an email at ranjan.pandey2@outlook.com
