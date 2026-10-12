@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Ranjan <span class="wave">👋</span>
 
-Ranjan is a Microsoft Certified Trainer (MCT), Author, and Consultant with 16 years of hands-on experience working on Microsoft Technologies. 
+Ranjan is a Microsoft Certified Trainer (MCT), Author, and Consultant with 18 years of hands-on experience working with Microsoft Technologies. 
 
 As founder of Flexmind, Ranjan's mission is to provide hands-on, deep-dive courses on AI and cloud technologies to enterprises and individuals worldwide and help them achieve digital transformation and productivity.
 
@@ -12,9 +12,9 @@ Ranjan has worked with top global clients, such as Microsoft, Intel, Volkswagen,
 
 | **No.** | **Primary Skills** |
 | ------ | ------------------------------ |
-|      1 | Power Platform| 
-|      2 | Power Apps (Canvas App & Model-driven App)|
-|      3 | Power Automate (Cloud flow and Desktop flow)|
+|      1 | Microsoft Copilot| 
+|      2 | Copilot Studio|
+|      3 | Power Automate|
 |      4 | Azure OpenAI Service| 
 |      5 | Microsoft Copilot Studio|
 |      6 | Process Mining|
